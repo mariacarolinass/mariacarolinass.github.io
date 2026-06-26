@@ -1,0 +1,425 @@
+[
+    {
+        "created_at": "2026-06-20 20:32:09.456656",
+        "description": "Usuário visualizou a página ou funcionalidade.",
+        "enabled": 1,
+        "id": 1,
+        "key": "view",
+        "name": "Visualização",
+        "updated_at": "2026-06-20 20:32:09.456656"
+    },
+    {
+        "created_at": "2026-06-20 20:32:09.463151",
+        "description": "Etapa do onboarding foi exibida.",
+        "enabled": 1,
+        "id": 2,
+        "key": "onboarding_step_shown",
+        "name": "Viu etapa do onboarding",
+        "updated_at": "2026-06-20 20:32:09.463151"
+    },
+    {
+        "created_at": "2026-06-20 20:32:09.466580",
+        "description": "Estado vazio apareceu para o usuário.",
+        "enabled": 1,
+        "id": 3,
+        "key": "empty_state_shown",
+        "name": "Viu estado vazio",
+        "updated_at": "2026-06-20 20:32:09.466580"
+    },
+    {
+        "created_at": "2026-06-20 20:32:09.469823",
+        "description": "Tela de configuração de perfil foi mostrada.",
+        "enabled": 1,
+        "id": 4,
+        "key": "profile_setup_shown",
+        "name": "Viu configuração de perfil",
+        "updated_at": "2026-06-20 20:32:09.469823"
+    },
+    {
+        "created_at": "2026-06-20 20:32:09.472907",
+        "description": "Dica contextual de sucesso foi exibida.",
+        "enabled": 1,
+        "id": 5,
+        "key": "success_tip_shown",
+        "name": "Viu dica de sucesso",
+        "updated_at": "2026-06-20 20:32:09.472907"
+    },
+    {
+        "created_at": "2026-06-20 20:32:09.475979",
+        "description": "Usuário concluiu o onboarding.",
+        "enabled": 1,
+        "id": 6,
+        "key": "onboarding_completed",
+        "name": "Onboarding concluído",
+        "updated_at": "2026-06-20 20:32:09.475979"
+    },
+    {
+        "created_at": "2026-06-20 20:32:09.479164",
+        "description": "Usuário criou a primeira tarefa.",
+        "enabled": 1,
+        "id": 7,
+        "key": "first_task_created",
+        "name": "Criou primeira tarefa",
+        "updated_at": "2026-06-20 20:32:09.479164"
+    },
+    {
+        "created_at": "2026-06-20 20:32:09.482253",
+        "description": "Usuário terminou o perfil.",
+        "enabled": 1,
+        "id": 8,
+        "key": "profile_completed",
+        "name": "Perfil concluído",
+        "updated_at": "2026-06-20 20:32:09.482253"
+    },
+    {
+        "created_at": "2026-06-20 20:32:09.485529",
+        "description": "Usuário executou a primeira ação de sucesso.",
+        "enabled": 1,
+        "id": 9,
+        "key": "first_success_action_taken",
+        "name": "Primeira ação de sucesso",
+        "updated_at": "2026-06-20 20:32:09.485529"
+    },
+    {
+        "created_at": "2026-06-20 20:32:12.301528",
+        "description": "Convite para login sem senha foi exibido.",
+        "enabled": 1,
+        "id": 10,
+        "key": "magic_link_prompt_shown",
+        "name": "Viu convite do link mágico",
+        "updated_at": "2026-06-20 20:32:12.301528"
+    },
+    {
+        "created_at": "2026-06-20 20:32:12.305501",
+        "description": "Formulário de cadastro foi mostrado.",
+        "enabled": 1,
+        "id": 11,
+        "key": "signup_form_shown",
+        "name": "Viu formulário de cadastro",
+        "updated_at": "2026-06-20 20:32:12.305501"
+    },
+    {
+        "created_at": "2026-06-20 20:32:12.309567",
+        "description": "Botões de login social apareceram.",
+        "enabled": 1,
+        "id": 12,
+        "key": "social_login_prompt_shown",
+        "name": "Viu login social",
+        "updated_at": "2026-06-20 20:32:12.309567"
+    },
+    {
+        "created_at": "2026-06-20 20:32:12.313526",
+        "description": "Área de recuperação de senha foi exibida.",
+        "enabled": 1,
+        "id": 13,
+        "key": "password_reset_prompt_shown",
+        "name": "Viu recuperação de senha",
+        "updated_at": "2026-06-20 20:32:12.313526"
+    },
+    {
+        "created_at": "2026-06-20 20:32:12.317342",
+        "description": "Usuário pediu um link mágico de acesso.",
+        "enabled": 1,
+        "id": 14,
+        "key": "magic_link_requested",
+        "name": "Solicitou link mágico",
+        "updated_at": "2026-06-20 20:32:12.317342"
+    },
+    {
+        "created_at": "2026-06-20 20:32:12.321042",
+        "description": "Link mágico foi validado com sucesso.",
+        "enabled": 1,
+        "id": 15,
+        "key": "magic_link_verified",
+        "name": "Validou o link mágico",
+        "updated_at": "2026-06-20 20:32:12.321042"
+    },
+    {
+        "created_at": "2026-06-20 20:32:12.324674",
+        "description": "Usuário acionou um provedor social.",
+        "enabled": 1,
+        "id": 16,
+        "key": "social_login_clicked",
+        "name": "Clicou no login social",
+        "updated_at": "2026-06-20 20:32:12.324674"
+    },
+    {
+        "created_at": "2026-06-20 20:32:12.328362",
+        "description": "Login foi concluído com sucesso.",
+        "enabled": 1,
+        "id": 17,
+        "key": "login_success",
+        "name": "Entrou com sucesso",
+        "updated_at": "2026-06-20 20:32:12.328362"
+    },
+    {
+        "created_at": "2026-06-20 20:32:12.332092",
+        "description": "Formulário de cadastro foi enviado.",
+        "enabled": 1,
+        "id": 18,
+        "key": "signup_form_submitted",
+        "name": "Enviou cadastro",
+        "updated_at": "2026-06-20 20:32:12.332092"
+    },
+    {
+        "created_at": "2026-06-20 20:32:12.337361",
+        "description": "Cadastro da conta foi finalizado.",
+        "enabled": 1,
+        "id": 19,
+        "key": "signup_completed",
+        "name": "Cadastro concluído",
+        "updated_at": "2026-06-20 20:32:12.337361"
+    },
+    {
+        "created_at": "2026-06-20 20:32:12.342503",
+        "description": "Usuário pediu redefinição de senha.",
+        "enabled": 1,
+        "id": 20,
+        "key": "password_reset_requested",
+        "name": "Solicitou redefinição",
+        "updated_at": "2026-06-20 20:32:12.342503"
+    },
+    {
+        "created_at": "2026-06-20 20:32:12.348442",
+        "description": "Senha foi redefinida com sucesso.",
+        "enabled": 1,
+        "id": 21,
+        "key": "password_reset_completed",
+        "name": "Redefinição concluída",
+        "updated_at": "2026-06-20 20:32:12.348442"
+    },
+    {
+        "created_at": "2026-06-20 20:32:14.806520",
+        "description": "Oferta incremental exibida no checkout.",
+        "enabled": 1,
+        "id": 22,
+        "key": "checkout_upsell_shown",
+        "name": "Viu oferta no checkout",
+        "updated_at": "2026-06-20 20:32:14.806520"
+    },
+    {
+        "created_at": "2026-06-20 20:32:14.813433",
+        "description": "Dica com comparativo de preço foi exibida.",
+        "enabled": 1,
+        "id": 23,
+        "key": "pricing_tooltip_shown",
+        "name": "Viu dica de preço",
+        "updated_at": "2026-06-20 20:32:14.813433"
+    },
+    {
+        "created_at": "2026-06-20 20:32:14.819041",
+        "description": "Convite de upgrade apareceu para o usuário.",
+        "enabled": 1,
+        "id": 24,
+        "key": "upgrade_prompt_shown",
+        "name": "Viu convite de upgrade",
+        "updated_at": "2026-06-20 20:32:14.819041"
+    },
+    {
+        "created_at": "2026-06-20 20:32:14.824120",
+        "description": "Lembrete de carrinho foi exibido.",
+        "enabled": 1,
+        "id": 25,
+        "key": "cart_reminder_shown",
+        "name": "Viu lembrete do carrinho",
+        "updated_at": "2026-06-20 20:32:14.824120"
+    },
+    {
+        "created_at": "2026-06-20 20:32:14.828710",
+        "description": "Usuário abriu a oferta incremental do checkout.",
+        "enabled": 1,
+        "id": 26,
+        "key": "checkout_upsell_clicked",
+        "name": "Clicou na oferta do checkout",
+        "updated_at": "2026-06-20 20:32:14.828710"
+    },
+    {
+        "created_at": "2026-06-20 20:32:14.833493",
+        "description": "Detalhes de preço foram abertos.",
+        "enabled": 1,
+        "id": 27,
+        "key": "pricing_details_opened",
+        "name": "Abriu detalhes de preço",
+        "updated_at": "2026-06-20 20:32:18.113389"
+    },
+    {
+        "created_at": "2026-06-20 20:32:14.837827",
+        "description": "Usuário clicou no botão de upgrade.",
+        "enabled": 1,
+        "id": 28,
+        "key": "upgrade_cta_clicked",
+        "name": "Clicou no upgrade",
+        "updated_at": "2026-06-20 20:32:14.837827"
+    },
+    {
+        "created_at": "2026-06-20 20:32:14.841915",
+        "description": "Usuário acionou o lembrete do carrinho.",
+        "enabled": 1,
+        "id": 29,
+        "key": "cart_reminder_clicked",
+        "name": "Clicou no lembrete do carrinho",
+        "updated_at": "2026-06-20 20:32:14.841915"
+    },
+    {
+        "created_at": "2026-06-20 20:32:14.846465",
+        "description": "Compra finalizada com sucesso.",
+        "enabled": 1,
+        "id": 30,
+        "key": "purchase_completed",
+        "name": "Compra concluída",
+        "updated_at": "2026-06-20 20:32:14.846465"
+    },
+    {
+        "created_at": "2026-06-20 20:32:14.850784",
+        "description": "Usuário concluiu upgrade de assinatura.",
+        "enabled": 1,
+        "id": 31,
+        "key": "subscription_upgraded",
+        "name": "Plano atualizado",
+        "updated_at": "2026-06-20 20:32:14.850784"
+    },
+    {
+        "created_at": "2026-06-20 20:32:18.088369",
+        "description": "Hero principal da página inicial foi exibido.",
+        "enabled": 1,
+        "id": 32,
+        "key": "homepage_hero_seen",
+        "name": "Viu hero da página inicial",
+        "updated_at": "2026-06-20 20:32:18.088369"
+    },
+    {
+        "created_at": "2026-06-20 20:32:18.092579",
+        "description": "Sugestões de busca apareceram no campo.",
+        "enabled": 1,
+        "id": 33,
+        "key": "search_suggestions_shown",
+        "name": "Viu sugestões de busca",
+        "updated_at": "2026-06-20 20:32:18.092579"
+    },
+    {
+        "created_at": "2026-06-20 20:32:18.097467",
+        "description": "Banner de retenção foi exibido.",
+        "enabled": 1,
+        "id": 34,
+        "key": "retention_banner_shown",
+        "name": "Viu banner de retenção",
+        "updated_at": "2026-06-20 20:32:18.097467"
+    },
+    {
+        "created_at": "2026-06-20 20:32:18.101172",
+        "description": "Convite para comunidade foi exibido.",
+        "enabled": 1,
+        "id": 35,
+        "key": "community_invite_shown",
+        "name": "Viu convite da comunidade",
+        "updated_at": "2026-06-20 20:32:18.101172"
+    },
+    {
+        "created_at": "2026-06-20 20:32:18.104810",
+        "description": "Usuário clicou no CTA principal.",
+        "enabled": 1,
+        "id": 36,
+        "key": "hero_cta_clicked",
+        "name": "Clicou no CTA do hero",
+        "updated_at": "2026-06-20 20:32:18.104810"
+    },
+    {
+        "created_at": "2026-06-20 20:32:18.108494",
+        "description": "Sugestão de busca foi selecionada.",
+        "enabled": 1,
+        "id": 37,
+        "key": "search_suggestion_selected",
+        "name": "Selecionou sugestão de busca",
+        "updated_at": "2026-06-20 20:32:18.108494"
+    },
+    {
+        "created_at": "2026-06-20 20:32:18.116995",
+        "description": "Banner de retenção recebeu clique.",
+        "enabled": 1,
+        "id": 38,
+        "key": "retention_banner_clicked",
+        "name": "Clicou no banner de retenção",
+        "updated_at": "2026-06-20 20:32:18.116995"
+    },
+    {
+        "created_at": "2026-06-20 20:32:18.120330",
+        "description": "Convite para comunidade recebeu clique.",
+        "enabled": 1,
+        "id": 39,
+        "key": "community_invite_clicked",
+        "name": "Clicou no convite da comunidade",
+        "updated_at": "2026-06-20 20:32:18.120330"
+    },
+    {
+        "created_at": "2026-06-20 20:32:21.188628",
+        "description": "Resumo semanal foi exibido.",
+        "enabled": 1,
+        "id": 40,
+        "key": "weekly_digest_shown",
+        "name": "Viu resumo semanal",
+        "updated_at": "2026-06-20 20:32:21.188628"
+    },
+    {
+        "created_at": "2026-06-20 20:32:21.192578",
+        "description": "Banner de sequência foi exibido.",
+        "enabled": 1,
+        "id": 41,
+        "key": "streak_banner_shown",
+        "name": "Viu banner de sequência",
+        "updated_at": "2026-06-20 20:32:21.192578"
+    },
+    {
+        "created_at": "2026-06-20 20:32:21.196535",
+        "description": "Central de alertas foi mostrada.",
+        "enabled": 1,
+        "id": 42,
+        "key": "alert_center_shown",
+        "name": "Viu central de alertas",
+        "updated_at": "2026-06-20 20:32:21.196535"
+    },
+    {
+        "created_at": "2026-06-20 20:32:21.200544",
+        "description": "Resumo da comunidade foi exibido.",
+        "enabled": 1,
+        "id": 43,
+        "key": "community_digest_shown",
+        "name": "Viu resumo da comunidade",
+        "updated_at": "2026-06-20 20:32:21.200544"
+    },
+    {
+        "created_at": "2026-06-20 20:32:21.204315",
+        "description": "Usuário abriu o resumo semanal.",
+        "enabled": 1,
+        "id": 44,
+        "key": "weekly_digest_opened",
+        "name": "Abriu resumo semanal",
+        "updated_at": "2026-06-20 20:32:21.204315"
+    },
+    {
+        "created_at": "2026-06-20 20:32:21.209615",
+        "description": "Banner de sequência recebeu clique.",
+        "enabled": 1,
+        "id": 45,
+        "key": "streak_banner_clicked",
+        "name": "Clicou no banner de sequência",
+        "updated_at": "2026-06-20 20:32:21.209615"
+    },
+    {
+        "created_at": "2026-06-20 20:32:21.213469",
+        "description": "Usuário abriu a central de alertas.",
+        "enabled": 1,
+        "id": 46,
+        "key": "alert_center_opened",
+        "name": "Abriu central de alertas",
+        "updated_at": "2026-06-20 20:32:21.213469"
+    },
+    {
+        "created_at": "2026-06-20 20:32:21.217375",
+        "description": "Resumo da comunidade recebeu clique.",
+        "enabled": 1,
+        "id": 47,
+        "key": "community_digest_clicked",
+        "name": "Clicou no resumo da comunidade",
+        "updated_at": "2026-06-20 20:32:21.217375"
+    }
+]

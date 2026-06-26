@@ -1,0 +1,13 @@
+[
+    {
+        "created_at": "2026-06-20 21:33:56.955289",
+        "enabled": 1,
+        "feature_key": "guided_onboarding",
+        "id": 1,
+        "min_lift": 0.02,
+        "min_samples_per_variant": 100,
+        "name": "Checkout A/B",
+        "primary_metric_event": "view",
+        "updated_at": "2026-06-20 21:33:56.955289"
+    }
+]
