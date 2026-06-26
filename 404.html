@@ -5,12 +5,18 @@
     <title>Redirecionando…</title>
 
     <script>
-      location.replace("/adaptive-feature-flags/" + window.location.search + window.location.hash);
+      const target =
+        "https://carolinasoares.dev" +
+        window.location.pathname +
+        window.location.search +
+        window.location.hash;
+
+      location.replace(target);
     </script>
 
-    <meta http-equiv="refresh" content="0; url=/adaptive-feature-flags/" />
+    <meta http-equiv="refresh" content="0; url=https://carolinasoares.dev/" />
   </head>
   <body>
-    <p>Redirecionando para <a href="/adaptive-feature-flags/">Adaptive Feature Flags</a>…</p>
+    <p>Redirecionando para <a href="https://carolinasoares.dev">carolinasoares.dev</a>…</p>
   </body>
 </html>
